@@ -1,0 +1,114 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: #292929;
+}
+.navigationbar{
+  background-color: #292929;
+  display: flex;
+  gap: 30px;
+  margin-left: 20%;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+}
+.navigationbar .logo{
+  color: #060606;
+}
+.navigationbar a{
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+.navigationbar .support-link{
+  color: #89ADDE;
+}
+.icons{
+  margin-left: 20%;
+}
+.gpus-photo{
+  width: 100%;
+  padding-bottom: 15px;
+}
+.navigationbar2{
+  margin-left: 30%;
+  display: flex;
+  gap: 5%;
+}
+.navigationbar2 a{
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  padding-bottom: 5%;
+}
+.title{
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 4%;
+  text-align: center;
+}
+.part-2 img{
+  width: 500px;
+  display: inline-block;
+  margin-left: 5%;
+}
+.photo1{
+  display: inline-block;
+  color: white;
+  margin-left: 16%;
+  text-align: center;
+}
+.photo2{
+  display: inline-block;
+  color: white;
+  margin-left: 25%;
+}
+.photo3{
+  display: inline-block;
+  color: white;
+  margin-left: 20%;
+  font-size: 14px;
+  padding-bottom: 4%;
+}
+.meh2{
+  margin-left: 16%;
+}
+.part2-2ndrowpics img{
+  width: 500px;
+  display: inline-block;
+  margin-left: 5%;
+}
+.photo4{
+  display: inline-block;
+  color: white;
+  margin-left: 14%;
+  text-align: center;
+}
+.photo5{
+  display: inline-block;
+  color: white;
+  margin-left: 25%;
+  font-size: 18px;
+}
+.photo6{
+  display: inline-block;
+  color: white;
+  margin-left: 20%;
+  font-size: 14px;
+  padding-bottom: 4%;
+}
+.meh5{
+  font-size: 13px;
+  margin-left: 12%;
+}
+.banner-after-2nd-part{
+  margin-left: 5%;
+  width: 1700px;
+}
+.meh6{
+  margin-left: 21%;
+}
+
