@@ -1,0 +1,113 @@
+*{
+  margin: 0;
+  font-family: monospace;
+}
+body{
+  background-image: url("Lineargradient2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.links{
+  background-color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 25px;
+}
+.links ul a{
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+}
+.links ul{
+  display: flex;
+  gap: 30px;
+  margin-left: 80%;
+}
+.border{
+  margin-top: 6%;
+  position: flex;
+  width: 370px;
+  height: 600px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+p{
+  color: black;
+  text-align: center;
+  padding-top: 15px;
+  font-weight: bold;
+  font-size: 32px;
+  padding-top: 40px;
+}
+.input1{
+  margin-left: 30px;
+  padding-top: 50px;
+  margin-bottom: 1px;
+  padding-top: 50px;
+  border: none;
+}
+.input1 h6{
+  margin-bottom: 25px;
+  font-size: 13px;
+}
+.input2{
+  margin-left: 30px;
+  padding-top: 50px;
+}
+.input2 h6{
+  margin-bottom: 25px;
+  font-size: 13px;
+}
+.text1{
+  display: inline-block;
+  border-width: 0;
+  width: 282px;
+  outline: none;
+  box-shadow: 0 2px 2px -2px gray;
+  padding-bottom: 12px;
+}
+.text2{
+  display: inline-block;
+  border-width: 0;
+  width: 282px;
+  outline: none;
+  box-shadow: 0 2px 2px -2px gray;
+  padding-bottom: 12px;
+}
+h3{
+  margin-top: 10px;
+  margin-left: 212px;
+  color: grey;
+  font-size: 14px;
+}
+button{
+  margin-top: 10%;
+  display: flex;
+  margin-left: 13%;
+  padding-left: 126px;
+  padding-right: 126px;
+  border-radius: 30px;
+  border: none;
+  background-color: lightblue;
+  transition: 0.5s;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  cursor: pointer;
+}
+button:hover{
+  background-color: rgb(38, 103, 146);
+  color: white;
+}
+.title{
+  font-size: 32px;
+}
+.signup-using{
+  font-size: 13px;
+}
+.socials{
+  text-align: center;
+  justify-content: space-between;
+  font-size: 25px;
+}
